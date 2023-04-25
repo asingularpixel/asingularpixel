@@ -3,6 +3,7 @@ Hi, I'm asingularpixel (though I prefer just "pixel"), and I use she/they pronou
 I like getting technical insights into and new perspectives of my favorite games, which typically means:
 - Pokemon decomps
 - Minecraft mods
+- Retro emulators
 - Random video-gamey things
 
 Don't worry, I do also enjoy looking into more standard projects (can't think of any examples rn but I promise I do)
