@@ -10,6 +10,6 @@ Don't worry, I do also enjoy looking into more standard projects (can't think of
 
 I'm trying to get into actually contributing to public repos more and hopefully start some projects of my own, but for now most of my (very small) collection of repos are private.
 
-I've been programming for around 8 years now, but I'm still kinda new to contibuting, etc. so you might have to be a little patient with me (which I apologize in advance for lol)
+I've been programming for around 7 years now, but I'm still kinda new to contibuting, etc. so you might have to be a little patient with me (which I apologize in advance for lol)
 
 Enjoy looking at the two things I have public ig
